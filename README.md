@@ -1,3 +1,5 @@
+![Banner](Assets/DataAnalyst.png)
+
 # COCA-COLA SALES DASHBOARD
 
 ## Introduction
@@ -24,6 +26,8 @@ The Coca-Cola Sales Dashboard consists of several components:
 - A bar chart displaying total sales by retailer, showing the sales volume distribution among key business partners like Walmart, CVS, Costco, and Target.
 - A trend line showing the total sales and operating profit over time, providing insight into the financial health of the beverage lines across the year.
 - A horizontal bar chart comparing operating profit and total sales by beverage brand, highlighting the performance of each product.
+
+  ![banner](https://github.com/karinakozlowski/Cocacola_Retail/blob/main/Assets/Dashboard%20Cocacola.jpg)
 
 ## Conclusions and Insights
 
