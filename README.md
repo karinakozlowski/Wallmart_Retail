@@ -38,3 +38,12 @@ The Coca-Cola Sales Dashboard provides several key insights:
 - Despite varying unit prices, the staple Coca-Cola beverage maintains a leading position in sales and operating profit, suggesting strong brand loyalty and market presence.
 
 In conclusion, the dashboard serves as a vital tool for understanding the dynamics of Coca-Cola's sales. It informs strategic decisions that can optimize sales efforts according to seasonal trends and reinforces the importance of targeted marketing campaigns during peak seasons.
+
+## EDA (Exploratory Data Analysis)
+
+![banner](https://github.com/karinakozlowski/Cocacola_Retail/blob/main/Assets/EDA.jpg)
+
+![banner](https://github.com/karinakozlowski/Cocacola_Retail/blob/main/Assets/Sweetviz1.jpg)
+![banner](https://github.com/karinakozlowski/Cocacola_Retail/blob/main/Assets/Sweetviz2.jpg)
+![banner](https://github.com/karinakozlowski/Cocacola_Retail/blob/main/Assets/Sweetviz3.jpg)
+![banner](https://github.com/karinakozlowski/Cocacola_Retail/blob/main/Assets/Sweetviz4.jpg)
